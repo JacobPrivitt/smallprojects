@@ -1,0 +1,20 @@
+Ever present options
+-menu
+-inventroy
+-health
+
+danger messeges
+-its dark
+
+G2P
+P2G
+CLP
+
+Create Room
+-Map
+-A-z
+-1-26
+
+teleports
+
+map setting

@@ -1,0 +1,3 @@
+D:/desktop/Small Projects/TBAGE/cmake-build-debug/CMakeFiles/TBAGE.dir
+D:/desktop/Small Projects/TBAGE/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/desktop/Small Projects/TBAGE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
